@@ -1,5 +1,5 @@
 name: astrbot_plugin_hypixel_zombies
-display_name: 队友什么实力？
+display_name: Hypixel Zombies Stats
 desc: 用于查询hypixel zombies数据。 
 version: v1.0.0
 author: Vajentin
