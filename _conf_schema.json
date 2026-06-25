@@ -1,0 +1,9 @@
+{
+  "hypixel_key": {
+    "description": "Hypixel API Key",
+    "type": "string",
+    "default": "",
+    "hint": "去 https://developer.hypixel.net 生成。个人/小社群用 Personal Key（限速 300 次/5 分钟）。"
+  }
+}
+
